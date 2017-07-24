@@ -1,6 +1,6 @@
 **Theta Team README**
 
-Complete:
+**Complete:**
   -Collection of tasks done
   -Created form for submitting new tasks to the to-do list
       -Sort the list of tasks so that the newest is at the top
