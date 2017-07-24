@@ -10,7 +10,9 @@
       -Also implemented a feature to display the number of incomplete tasks
       
   -Utilized the Meteor accounts system enable the creation of user accounts and profiles.
+  
       -Can create user accounts using local database
+      
            -User accounts connect to user specific to-do lists
            
   -Users cannot see the features of the application unless they are signed in
