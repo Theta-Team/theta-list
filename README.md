@@ -1,4 +1,4 @@
-** Theta Team README **
+**Theta Team README**
 
 Complete:
   -Collection of tasks done
