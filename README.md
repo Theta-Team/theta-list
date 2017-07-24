@@ -12,7 +12,7 @@ Complete:
   -Users cannot see the features of the application unless they are signed in
 
 
-##Pending:
+**Pending:**
   -Username creation requirements
       -When users create a username it must follow the guidelines listed in the report
   -Password requirements 
@@ -25,11 +25,11 @@ Complete:
       -User needs to be able to manage their privacy settings
           -What information is visible to the public and what is not
 
-##What each member worked or is working on:
+**What each member worked or is working on:**
 Brian Logan - Worked on the ideas and features of the project.
 Brandon Chun - Worked on the coding portion of the project
 Steven Braun - Worked on testing and coding portion of the project
 Na, Jonathan - Worked on the report documents for the assignments. 
 
 
-##Link to repository: https://github.com/brandon-chun/todo-list
+**Link to repository: https://github.com/brandon-chun/todo-list**
