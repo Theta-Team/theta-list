@@ -19,13 +19,18 @@
 **Pending:**
   -Username creation requirements
       -When users create a username it must follow the guidelines listed in the report
+      
   -Password requirements 
       -When users create a password it must follow the guidelines listed in the report
+      
   -Need to add client-side database security
+  
   -Overall improvement of CSS styling
+  
   -Need to add a user profile feature
       -User needs to be able to input their information into the profile
           -Ex: Email, Telephone number, Date of birth
+          
       -User needs to be able to manage their privacy settings
           -What information is visible to the public and what is not
 
