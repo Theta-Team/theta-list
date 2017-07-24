@@ -2,13 +2,17 @@
 
 **Complete:**
   -Collection of tasks done
+  
   -Created form for submitting new tasks to the to-do list
       -Sort the list of tasks so that the newest is at the top
+      
   -Created feature that allows users to hide completed tasks
       -Also implemented a feature to display the number of incomplete tasks
+      
   -Utilized the Meteor accounts system enable the creation of user accounts and profiles.
       -Can create user accounts using local database
            -User accounts connect to user specific to-do lists
+           
   -Users cannot see the features of the application unless they are signed in
 
 
