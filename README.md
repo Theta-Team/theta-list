@@ -29,8 +29,7 @@
   
   -Need to add a user profile feature
       -User needs to be able to input their information into the profile
-          -Ex: Email, Telephone number, Date of birth
-          
+          -Ex: Email, Telephone number, Date of birth    
       -User needs to be able to manage their privacy settings
           -What information is visible to the public and what is not
 
