@@ -1,124 +1,147 @@
-/* CSS declarations go here */
 body {
-    font-family: sans-serif;
-    background-color: #61c419;
-    background-image: linear-gradient(to bottom, #61c419, #918e82 100%);
-    background-attachment: fixed;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 0;
-    margin: 0;
-    font-size: 14px;
-}
 
-.container {
-    max-width: 600px;
-    margin: 0 auto;
-    min-height: 100%;
-    background: white;
+  font-family: sans-serif;
+  background-attachment: fixed;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  padding: 0;
+  margin: 0;
+
+  font-size: 14px;
 }
 
 header {
-    background: #b4e391;
-    background-image: linear-gradient(to bottom, #b4e391 67%, #61c419 100%, #b4e391 100%);
-    padding: 20px 15px 15px 15px;
-    position: relative;
+  padding: 20px 15px 15px 15px;
+  position: relative;
+  background-color: #F0F8FF;
 }
 
 #login-buttons {
-    display: block;
+
+  display: block;
 }
 
 h1 {
-    font-size: 1.5em;
-    margin: 0;
-    margin-bottom: 10px;
-    display: inline-block;
-    margin-right: 1em;
-}
 
-form {
-    margin-top: 10px;
-    margin-bottom: -10px;
-    position: relative;
-}
-
-.new-task input {
-    box-sizing: border-box;
-    padding: 10px 0;
-    background: transparent;
-    border: none;
-    width: 100%;
-    padding-right: 80px;
-    font-size: 1em;
-}
-
-.new-task input:focus{
-    outline: 0;
+  font-size: 1.5em;
+  margin: 0;
+  margin-bottom: 10px;
+  margin-right: 1em;
+  position: relative;
+  text-align: center;
 }
 
 ul {
-    margin: 0;
-    padding: 0;
-    background: white;
+
+  margin: 0;
+  padding: 0;
+  background: white;
 }
 
-.delete {
-    float: right;
-    font-weight: bold;
-    background: none;
-    font-size: 1em;
-    border: none;
-    position: relative;
+.task-button {
+  float: right;
+  margin-right: 4px;
 }
 
 li {
-    position: relative;
-    list-style: none;
-    padding: 15px;
-    border-bottom: #eee solid 1px;
+
+  position: relative;
+  list-style: none;
+  padding: 15px;
+  border-bottom: #eee solid 1px;
 }
 
 li .text {
-    margin-left: 10px;
+  word-wrap: break-word;
+  margin-left: 10px;
 }
 
 li.checked {
-    color: #888;
+
+  color: #888;
 }
 
 li.checked .text {
-    text-decoration: line-through;
+
+  text-decoration: line-through;
 }
 
 li.private {
-    background: #eee;
-    border-color: #ddd;
+
+  background: #eee;
+  border-color: #ddd;
 }
 
 header .hide-completed {
-    float: right;
+
+  float: right;
+}
+
+small.more {
+  word-break: break-all;
 }
 
 .toggle-private {
-    margin-left: 5px;
+
+  margin-left: 5px;
 }
 
 @media (max-width: 600px) {
-    li {
-        padding: 12px 15px;
-    }
 
-    .search {
-        width: 150px;
-        clear: both;
-    }
+  li {
 
-    .new-task input {
-        padding-bottom: 5px;
-    }
+    padding: 12px 15px;
+  }
 
+
+  .search {
+
+    width: 150px;
+    clear: both;
+  }
+
+
+  .new-task input {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+}
+
+
+
+
+
+#main-card{
+	padding: 0px;
+}
+
+#card-list{
+	
+	margin: 0 0 2px 0;
+	padding: 0;
+}
+
+#login-name-link{
+    margin-top: 0px;
+    margin-left: -10px;
+}
+
+#titlePage{
+  position:relative;
+  text-align: center;
+}
+
+#usr{
+    margin-left: -15px
+
+}
+
+.thumbnail{
+  margin: 0 0 3px 0;
 }

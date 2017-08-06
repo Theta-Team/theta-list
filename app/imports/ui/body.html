@@ -1,3 +1,4 @@
+
 <body>
 <div class="container">
     <header>
@@ -11,16 +12,17 @@
             Hide Completed Tasks
 
         </label>
-
         {{> loginButtons}}
 
         {{#if currentUser}}
-
+        
         <form class="new-task">
 
-            <input type="text" name="text" placeholder="Type to add new tasks" />
+            <input type="text" name="text" class="form-control" id="usr" placeholder="Type to add new tasks" />
+
 
         </form>
+
 
         {{/if}}
 
@@ -37,5 +39,4 @@
 </div>
 
 </body>
-
 
