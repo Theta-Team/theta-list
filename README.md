@@ -1,4 +1,4 @@
-**Theta Team README**
+**<h1>Theta Team README</h1>**
 
 **Complete:**
   -Collection of tasks done
@@ -45,7 +45,7 @@ Na, Jonathan - Worked on the report documents for the assignments.
 
 **Link to repository: https://github.com/Theta-Team/theta-list**
 
-**Part 2:**
+**<h2>Part 2:</h2>**
 
 **Done this Week:**
 -Passwords that are created cannot be less than 6 characters long
@@ -60,30 +60,30 @@ Na, Jonathan - Worked on the report documents for the assignments.
 -Finish the project with the publish and subscribe parts.
 -More testing for any security errors or leaks. 
 
-**Who did what this week:**
-Brian Logan - Worked on testing and breaking the program.
-Brandon Chun - Worked on the coding portion of the project.
-Steven Braun - Worked on implementing the program in DLint.
-Na, Jonathan - Worked on the report documents for the assignments. 
+**Who did what this week:**<br>
+Brian Logan - Worked on testing and breaking the program.<br>
+Brandon Chun - Worked on the coding portion of the project.<br>
+Steven Braun - Worked on implementing the program in DLint.<br>
+Na, Jonathan - Worked on the report documents for the assignments.
 
 
 **Link to repository: https://github.com/Theta-Team/theta-list** 
 
-**Part 3: Final release**
+**<h2>Part 3: Final release</h2>**
 
 **Done this Week:**
--Password package implements timeout feature for inputting incorrect passwords too many times.
--Users now have the ability to make their tasks private or public.
-  -Private: Only the user that created the task can view the task
-  -Public: Anyone can view the task
--Removed autopublish package in Meteor
-  -Users that are not logged in cannot see any tasks listed, public or private.
+-Password package implements timeout feature for inputting incorrect passwords too many times.<br>
+-Users now have the ability to make their tasks private or public.<br>
+  -Private: Only the user that created the task can view the task<br>
+  -Public: Anyone can view the task<br>
+-Removed autopublish package in Meteor<br>
+  -Users that are not logged in cannot see any tasks listed, public or private.<br>
 
-**Who did what this week:**
-Brian Logan - Worked on testing and breaking the program.
-Brandon Chun - Worked on the coding portion of the project.
-Steven Braun - Worked on technical report of the project.
-Na, Jonathan - Worked on the report portion of the project.
+**Who did what this week:**<br>
+Brian Logan - Worked on testing and breaking the program.<br>
+Brandon Chun - Worked on the coding portion of the project.<br>
+Steven Braun - Worked on technical report of the project.<br>
+Na, Jonathan - Worked on the report portion of the project.<br>
 
 **Closing thoughts:**
 We finally got our project finished, one of the hardest parts of our projects was ...
