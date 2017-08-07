@@ -71,7 +71,7 @@ Na, Jonathan - Worked on the report documents for the assignments.
 
 **<h2>Part 3: Final release</h2>**
 
-**Done this Week:**
+**Done this Week:**<br>
 -Password package implements timeout feature for inputting incorrect passwords too many times.<br>
 -Users now have the ability to make their tasks private or public.<br>
   -Private: Only the user that created the task can view the task<br>
