@@ -87,6 +87,6 @@ Na, Jonathan - Worked on the report portion of the project.<br>
 
 **Closing thoughts:**
 We finally got our project finished, one of the hardest parts of our projects was ...
-Link to Github wiki: https://github.com/Theta-Team/theta-list/wiki 
-Link to repository: https://github.com/Theta-Team/theta-list 
+**Link to Github wiki: https://github.com/Theta-Team/theta-list/wiki**
+**Link to repository: https://github.com/Theta-Team/theta-list**
 
