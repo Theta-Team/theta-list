@@ -1,6 +1,6 @@
 **<h1>Theta Team README</h1>**
 
-**Complete:**
+**Complete:**<br>
   -Collection of tasks done
   
   -Created form for submitting new tasks to the to-do list
@@ -16,7 +16,7 @@
   -Users cannot see the features of the application unless they are signed in
 
 
-**Pending:**
+**Pending:**<br>
   -Username creation requirements
       -When users create a username it must follow the guidelines listed in the report
       
