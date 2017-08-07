@@ -43,4 +43,50 @@ Steven Braun - Worked on testing and coding portion of the project
 Na, Jonathan - Worked on the report documents for the assignments. 
 
 
-**Link to repository: https://github.com/brandon-chun/todo-list**
+**Link to repository: https://github.com/Theta-Team/theta-list**
+
+**Part 2:**
+
+**Done this Week:**
+-Passwords that are created cannot be less than 6 characters long
+-Removed “insecure” package from meteor that allowed users to edit the database from the client (mainly used for an easier time developing and testing).
+-Defined methods for database operations 
+  -Add new tasks
+  -Update tasks
+  -Remove tasks
+
+**What is pending:**
+-Adding character limit for usernames.
+-Finish the project with the publish and subscribe parts.
+-More testing for any security errors or leaks. 
+
+**Who did what this week:**
+Brian Logan - Worked on testing and breaking the program.
+Brandon Chun - Worked on the coding portion of the project.
+Steven Braun - Worked on implementing the program in DLint.
+Na, Jonathan - Worked on the report documents for the assignments. 
+
+
+**Link to repository: https://github.com/Theta-Team/theta-list** 
+
+**Part 3: Final release**
+
+**Done this Week:**
+-Password package implements timeout feature for inputting incorrect passwords too many times.
+-Users now have the ability to make their tasks private or public.
+  -Private: Only the user that created the task can view the task
+  -Public: Anyone can view the task
+-Removed autopublish package in Meteor
+  -Users that are not logged in cannot see any tasks listed, public or private.
+
+**Who did what this week:**
+Brian Logan - Worked on testing and breaking the program.
+Brandon Chun - Worked on the coding portion of the project.
+Steven Braun - Worked on technical report of the project.
+Na, Jonathan - Worked on the report portion of the project.
+
+**Closing thoughts:**
+We finally got our project finished, one of the hardest parts of our projects was ...
+Link to Github wiki: https://github.com/Theta-Team/theta-list/wiki 
+Link to repository: https://github.com/Theta-Team/theta-list 
+
