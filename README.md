@@ -86,7 +86,9 @@ Steven Braun - Worked on technical report of the project.<br>
 Na, Jonathan - Worked on the report portion of the project.<br>
 
 **Closing thoughts:**
-We finally got our project finished, one of the hardest parts of our projects was ...
+<li>We finally got our project finished, one of the hardest parts of our projects was figuring out what each Meteor package that we implemented. The Meteor Accounts, Password, Insecure, and Autopublish packages were utilized in the project. Even though we used or removed certain packages to fulfill requirements, there were other parts of the project that were affected by it. </li>
+<li>Also, with a few of our team members taking other classes over the summer, and the class itself being fast paced with only roughly 5-6 weeks in the course,  one thing we all felt we did right was picking a simple project to do and focus on the security aspect of it. This helped us maintain little to no errors when performing the static and dynamic analysis and made implementing new features smooth and easy, all the while being able to fully experience the different aspects of each assignment.</li>
+
 <br>
 **Link to Github wiki: https://github.com/Theta-Team/theta-list/wiki**<br>
 **Link to repository: https://github.com/Theta-Team/theta-list**<br>
